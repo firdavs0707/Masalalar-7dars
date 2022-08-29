@@ -5,7 +5,7 @@
 //   let arr = [];
   
 //   for (let i = value; i <= x * value; i += value) {
-//   	var lastRes = res + i;
+//   	 var lastRes = res + i;
 //     arr.push(lastRes)
 //   }
 //   return arr
